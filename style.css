@@ -1,0 +1,26 @@
+body {
+    background-color:blueviolet; text-align:center;
+}
+h1 {
+    color:palevioletred;
+    font-family:arial,sans-serif;
+}
+table {
+    width:100%;
+    border-collapse:collapse;
+}
+th,td{
+    border:10px solid black;
+    padding:30px;
+    text-align:center;
+}
+th{
+    background-color:purple;
+    font-weight:bold;
+}
+img
+{
+    width:300px;
+    height:max-content;
+    border: 10px ;
+}
